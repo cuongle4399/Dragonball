@@ -7,29 +7,29 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   32.0.15.6607
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\converNRO 244\Nro_244_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\converNRO 244\Nro_244_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.015 seconds
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\converNRO 244\Nro_244_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Dragonball 244\Nro_244_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Dragonball 244\Nro_244_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Dragonball 244\Nro_244_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.695200 ms
+UnloadTime: 0.669900 ms
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 141c -> priority: 1 
-  Thread -> id: 3b28 -> priority: 1 
-  Thread -> id: 31cc -> priority: 1 
-  Thread -> id: 2154 -> priority: 1 
-  Thread -> id: 25a4 -> priority: 1 
-  Thread -> id: 3480 -> priority: 1 
+  Thread -> id: 6118 -> priority: 1 
+  Thread -> id: 5f58 -> priority: 1 
+  Thread -> id: 620c -> priority: 1 
+  Thread -> id: 2b20 -> priority: 1 
+  Thread -> id: 6588 -> priority: 1 
+  Thread -> id: 6320 -> priority: 1 
 init Session_ME
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -42,7 +42,99 @@ Trying to create a material from string - this is no longer supported.
  
 (Filename:  Line: 1086)
 
->>>>SetIpSelect: 2  save:False
+>>>>SetIpSelect: 0  save:False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon1.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>SetIpSelect: 0  save:False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>SetIpSelect: 2  save:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>>>>>Save saveRMSInt: svselect  index:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon3.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>>>>>Save saveRMSInt: svselect  index:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>>>>> Controller.isConnectionFail = true;
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connect fail 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>Loginscr perform: 2008
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>SetIpSelect: 2  save:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>>>>>>Save saveRMSInt: svselect  index:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>>cleanNetwork ...!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -80,13 +172,18 @@ port: 14445
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 183 unused Assets to reduce memory usage. Loaded Objects now: 1092.
-Total: 1.125500 ms (FindLiveObjects: 0.038900 ms CreateObjectMapping: 0.027600 ms MarkObjects: 0.949400 ms  DeleteObjects: 0.108600 ms)
+Unloading 206 unused Assets to reduce memory usage. Loaded Objects now: 1103.
+Total: 1.132100 ms (FindLiveObjects: 0.043200 ms CreateObjectMapping: 0.028000 ms MarkObjects: 0.938300 ms  DeleteObjects: 0.122300 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 840.
-Total: 1.079200 ms (FindLiveObjects: 0.025900 ms CreateObjectMapping: 0.016700 ms MarkObjects: 1.021200 ms  DeleteObjects: 0.014800 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 1.052400 ms (FindLiveObjects: 0.027500 ms CreateObjectMapping: 0.016700 ms MarkObjects: 0.993100 ms  DeleteObjects: 0.014600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 752.
+Total: 1.038300 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.016300 ms MarkObjects: 0.996200 ms  DeleteObjects: 0.001200 ms)
 
 >>---read_cmdExtra-sub:0
  
@@ -94,53 +191,46 @@ Total: 1.079200 ms (FindLiveObjects: 0.025900 ms CreateObjectMapping: 0.016700 m
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 741.
-Total: 1.095100 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.016400 ms MarkObjects: 1.052200 ms  DeleteObjects: 0.001500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 796.
-Total: 1.549500 ms (FindLiveObjects: 0.027700 ms CreateObjectMapping: 0.018500 ms MarkObjects: 1.426500 ms  DeleteObjects: 0.076500 ms)
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 805.
+Total: 1.477500 ms (FindLiveObjects: 0.026600 ms CreateObjectMapping: 0.017700 ms MarkObjects: 1.357700 ms  DeleteObjects: 0.075100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 855.
-Total: 1.542700 ms (FindLiveObjects: 0.027600 ms CreateObjectMapping: 0.017300 ms MarkObjects: 1.472300 ms  DeleteObjects: 0.025100 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 844.
+Total: 1.561600 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.017100 ms MarkObjects: 1.502500 ms  DeleteObjects: 0.017300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 450 unused Assets to reduce memory usage. Loaded Objects now: 895.
+Total: 1.776500 ms (FindLiveObjects: 0.041500 ms CreateObjectMapping: 0.029900 ms MarkObjects: 1.429400 ms  DeleteObjects: 0.275200 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 1588 unused Assets to reduce memory usage. Loaded Objects now: 964.
-Total: 2.643000 ms (FindLiveObjects: 0.078100 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.518900 ms  DeleteObjects: 0.982100 ms)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 904.
+Total: 1.517400 ms (FindLiveObjects: 0.038200 ms CreateObjectMapping: 0.019300 ms MarkObjects: 1.381800 ms  DeleteObjects: 0.077700 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 927.
-Total: 1.581400 ms (FindLiveObjects: 0.033800 ms CreateObjectMapping: 0.019000 ms MarkObjects: 1.502700 ms  DeleteObjects: 0.025300 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 945.
+Total: 1.503100 ms (FindLiveObjects: 0.036500 ms CreateObjectMapping: 0.019000 ms MarkObjects: 1.424600 ms  DeleteObjects: 0.022500 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 932.
-Total: 1.685300 ms (FindLiveObjects: 0.036100 ms CreateObjectMapping: 0.025700 ms MarkObjects: 1.522400 ms  DeleteObjects: 0.100600 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 947.
+Total: 1.521900 ms (FindLiveObjects: 0.040000 ms CreateObjectMapping: 0.018100 ms MarkObjects: 1.451200 ms  DeleteObjects: 0.011900 ms)
+
+>>---read_cmdExtra-sub:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+>>---read_cmdExtra-sub:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 943.
-Total: 1.552600 ms (FindLiveObjects: 0.032700 ms CreateObjectMapping: 0.018000 ms MarkObjects: 1.485700 ms  DeleteObjects: 0.015500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 934.
-Total: 1.548700 ms (FindLiveObjects: 0.034400 ms CreateObjectMapping: 0.018100 ms MarkObjects: 1.478900 ms  DeleteObjects: 0.016800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 377 unused Assets to reduce memory usage. Loaded Objects now: 950.
-Total: 1.835300 ms (FindLiveObjects: 0.040900 ms CreateObjectMapping: 0.032800 ms MarkObjects: 1.525000 ms  DeleteObjects: 0.235800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 237 unused Assets to reduce memory usage. Loaded Objects now: 956.
-Total: 1.734000 ms (FindLiveObjects: 0.041000 ms CreateObjectMapping: 0.027800 ms MarkObjects: 1.511500 ms  DeleteObjects: 0.153000 ms)
+Unloading 506 unused Assets to reduce memory usage. Loaded Objects now: 996.
+Total: 1.975100 ms (FindLiveObjects: 0.044400 ms CreateObjectMapping: 0.040700 ms MarkObjects: 1.582500 ms  DeleteObjects: 0.307100 ms)
 
 APP QUIT
  
@@ -155,6 +245,14 @@ APP QUIT
   at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
   at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
   at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+error read message!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Thread was being aborted
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
